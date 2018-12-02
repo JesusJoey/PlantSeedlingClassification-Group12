@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Galaxy\\Tools\\XM\\htdocs\\plantseedling\\my_model\\model.ckpt"
+all_model_checkpoint_paths: "C:\\Galaxy\\Tools\\XM\\htdocs\\plantseedling\\my_model\\model.ckpt"
